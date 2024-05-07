@@ -1,0 +1,11 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\bin\Debug\Ekstra_Araclar.exe.config
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\bin\Debug\Ekstra_Araclar.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\bin\Debug\Ekstra_Araclar.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.Properties.Resources.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Ekstra_Araclar\obj\Debug\Ekstra_Araclar.pdb
